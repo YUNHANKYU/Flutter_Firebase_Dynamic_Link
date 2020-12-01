@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24211867546",
+    "firebase_url": "https://seoul-e91fb.firebaseio.com",
+    "project_id": "seoul-e91fb",
+    "storage_bucket": "seoul-e91fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24211867546:android:d77d8568289459aaf6dc23",
+        "android_client_info": {
+          "package_name": "com.may2nd.dynamic_link_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24211867546-vqomvm99rj9jdannt3llkhj37v78uf2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3e06225gofzKz021IEpjulP-XEicp1i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24211867546-vqomvm99rj9jdannt3llkhj37v78uf2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24211867546-33r35ld1839o2ndr3ev9806c34idecbh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.may2nd.christian"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
